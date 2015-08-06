@@ -1,8 +1,10 @@
 # chain-of-responsibility
 Chain of responsibility pattern implementation in puremvc.
-In directory
+
 
 ##How to run this example
+
+Unzip and cd directory:
 ```
 npm install
 node index
