@@ -4,9 +4,8 @@ Chain of responsibility pattern implementation in puremvc.
 
 ##How to run this example
 
-Unzip and cd directory:
+Unzip and change to the newly created directory, then type:
 ```
-npm install
 node index
 ```
 
